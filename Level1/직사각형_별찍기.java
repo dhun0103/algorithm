@@ -2,7 +2,7 @@ package Level1;
 
 import java.util.Scanner;
 
-public class 직사각형별찍기 {
+public class 직사각형_별찍기 {
 
     public static void main(String[] args) {
 

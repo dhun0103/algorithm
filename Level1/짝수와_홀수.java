@@ -1,6 +1,6 @@
 package Level1;
 
-public class 짝수와홀수 {
+public class 짝수와_홀수 {
 
     public static String solution(int num) {
 
