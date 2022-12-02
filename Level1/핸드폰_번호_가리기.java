@@ -10,7 +10,7 @@ public class 핸드폰_번호_가리기 {
         for (int x = 0; x < len - 4; x++) {
             str += "*";
         }
-        return str+phone_number.substring(len-4);
+        return str + phone_number.substring(len - 4);
     }
 
     public static void main(String[] args) {
