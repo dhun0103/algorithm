@@ -21,6 +21,6 @@ public class 없는_숫자_더하기 {
 
     public static void main(String[] args) {
 
-        System.out.println();
+        System.out.println(solution(new int[]{4, 5, 6, 7, 8, 9, 0}));
     }
 }
