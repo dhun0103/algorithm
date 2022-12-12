@@ -9,6 +9,7 @@ public class 내적 {
         for (int x = 0; x < arr.length; x++) {
             sum += (arr[x] * brr[x]);
         }
+
         return sum;
     }
 
