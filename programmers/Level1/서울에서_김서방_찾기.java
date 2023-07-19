@@ -1,4 +1,4 @@
-package Level1;
+package programmers.Level1;
 
 public class 서울에서_김서방_찾기 {
 

@@ -1,4 +1,4 @@
-package Level1;
+package programmers.Level1;
 
 public class 부족한_금액_계산하기 {
 

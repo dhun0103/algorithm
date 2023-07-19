@@ -1,4 +1,4 @@
-package Level1;
+package programmers.Level1;
 
 public class 정수_제곱근_판별 {
 

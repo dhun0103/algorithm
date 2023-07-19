@@ -1,4 +1,4 @@
-package Level1;
+package programmers.Level1;
 
 public class 없는_숫자_더하기 {
 

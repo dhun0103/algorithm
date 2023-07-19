@@ -1,4 +1,4 @@
-package Level1;
+package programmers.Level1;
 
 public class 두_정수_사이의_합 {
 

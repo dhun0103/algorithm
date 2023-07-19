@@ -1,4 +1,4 @@
-package Level1;
+package programmers.Level1;
 
 public class 자릿수_더하기 {
 
